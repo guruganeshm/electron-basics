@@ -1,0 +1,34 @@
+{
+  "name": "electron-scratch",
+  "productName": "Electron App",
+  "version": "1.0.0",
+  "description": "An electron app from scratch created for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "package" : "build"
+  },
+  "build":{
+    "appID" :"com.guruganeshm.feelslikechatting"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guruganeshm/electron-basics.git"
+  },
+  "keywords": [
+    "electron",
+    "from",
+    "scratch"
+  ],
+  "author": "Guruganeshm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guruganeshm/electron-basics/issues"
+  },
+  "homepage": "https://github.com/guruganeshm/electron-basics#readme",
+  "devDependencies": {
+    "electron": "^1.7.10",
+    "electron-builder": "^19.52.1"
+  }
+}
