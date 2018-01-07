@@ -1,0 +1,4 @@
+- git clone
+- `npm install`
+- `npm start` to see in local
+- `npm run package` to build

@@ -2,5 +2,5 @@ directories:
   output: dist
   buildResources: build
 appId: com.guruganeshm.feelslikechatting
-files: '!icons{*/}'
+files: '!build{*/}'
 electronVersion: 1.7.10

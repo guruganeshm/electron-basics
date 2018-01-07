@@ -1,6 +1,6 @@
 {
   "name": "electron-scratch",
-  "productName": "Electron App",
+  "productName": "Simple Chat - Anonymous",
   "version": "1.0.0",
   "description": "An electron app from scratch created for learning purposes",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "build":{
     "appId": "com.guruganeshm.feelslikechatting",
-    "files": "!icons{*/}"
+    "files": "!build{*/}"
   },
   "repository": {
     "type": "git",
