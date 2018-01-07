@@ -10,7 +10,8 @@
     "package" : "build"
   },
   "build":{
-    "appID" :"com.guruganeshm.feelslikechatting"
+    "appId": "com.guruganeshm.feelslikechatting",
+    "files": "!icons{*/}"
   },
   "repository": {
     "type": "git",

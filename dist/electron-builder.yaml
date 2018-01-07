@@ -1,0 +1,6 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.guruganeshm.feelslikechatting
+files: '!icons{*/}'
+electronVersion: 1.7.10
